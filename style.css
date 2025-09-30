@@ -7,12 +7,12 @@ body {
 }
 
 header {
-  background: #111;
-  color: #fff;
-  padding: 1em;
+  background: url("images/background.jpg") no-repeat center center;
+  background-size: cover;
+  color: white;
   text-align: center;
+  padding: 80px 20px;
 }
-
 nav a {
   color: #fff;
   margin: 0 10px;
@@ -63,3 +63,4 @@ footer {
   color: #fff;
   margin-top: 20px;
 }
+
